@@ -13,6 +13,7 @@ function displayToggleButton(){
     var scrollerToggle = document.createElement("BUTTON");
     scrollerToggle.innerText = "Toggle Scroller";
     scrollerToggle.id = "scrollerToggle";
+    scrollerToggle.className = "stdbtn";
     document.getElementById('i2').appendChild(scrollerToggle);
     document.getElementById("scrollerToggle").addEventListener("click", toggle);
 
