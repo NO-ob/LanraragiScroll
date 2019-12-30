@@ -36,7 +36,7 @@ function toggle(){
         if (localStorage.scrollerEnabled == 1){
             localStorage.scrollerEnabled = 0;location.reload();
         } else {
-            localStorage.scrollerEnabled = 1; console.log("scrollT"); loadImages();
+            localStorage.scrollerEnabled = 1; loadImages();
         }
 
  }
