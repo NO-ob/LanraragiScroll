@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name       Lanraragi Scroll View
-// @namespace  http://www.fuzetsu.com/MangaLoaderNSFW
 // @version    1.0
 // @description Makes all gallery images load on a single page
 // @noframes
